@@ -1,0 +1,132 @@
+﻿@model ttmap.Models.MapModel  
+
+<!DOCTYPE html>
+<html class='use-all-space'>
+<head>
+    <title>Traffic tutorial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+     <link rel="stylesheet"
+          type="text/css"
+          href="https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.25.0/maps/maps.css" />
+    <script src="https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.25.0/maps/maps-web.min.js"></script> 
+    @* <link rel='stylesheet' type='text/css' href='https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.25.1/maps/maps.css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.25.0/services/services-web.min.js"></script>
+    *@ 
+    @* <link href="~/leaflet/leaflet.css" rel="stylesheet" />
+    <script src="~/leaflet/leaflet.js"></script> *@
+</head>
+<body>
+    <script src="~/js/tail.select.min.js"></script>
+
+     <script>
+        
+         var coordinates = @Html.Raw(Json.Serialize(Model.TSubSystemMasterDetailsBECollection));
+        var routeCoords = @Html.Raw(Json.Serialize(Model.routeCollection));
+         //alert(JSON.stringify(coordinates));
+    </script> 
+    <div class="container-fluid">
+        <div id="placeholder-map"></div>
+        <div class="map" id="map">@* 
+            <button style="font-size:24px"> <i class="fa fa-road" id='road'></i></button> *@
+            <div class='tt-overlay-panel -left-top -medium js-foldable' style='width: 200px;'>
+            <div class='tt-form'>
+                <div class='tt-spacing-top-24'>
+
+                 @* Home Button - takes back to stretch *@
+
+                    <button id="home-btn" class='tt-buttons-group__button'>
+                            Home
+                        </button>
+
+                 @*   Traffic and incidents  *@
+
+                    <label class='tt-form-label'>Traffic layers</label>
+                    <input type='checkbox' class='tt-checkbox' id='incidents'>
+                    <label class='tt-label' for='incidents'>Incidents</label>
+                    <input type='checkbox' class='tt-checkbox' id='flow'>
+                    <label class='tt-label' for='flow'>Flow</label>  
+                                
+                            
+                 @*    Map Style *@
+
+                        <div class='tt-form-label'>
+                            Layer
+                            <div id='layers-type' class='tt-buttons-group js-layer-buttons-group'>
+                                <button class='tt-buttons-group__button' id='basic'>Basic</button>
+                                <button class='tt-buttons-group__button' id='satellite'>Satellite</button>
+                                <button class='tt-buttons-group__button' id='dark'>Dark</button> 
+                            </div>
+                        </div>
+
+                 @*  Adding new icons *@
+
+                        <label class='tt-form-label'>Custom Icons</label>
+                        <button id="add-marker-button" class='tt-buttons-group__button'>
+                            Add New Icon
+                        </button>
+                    
+                        </div>
+                </div>
+            </div>
+        </div>
+
+       @*  Popup form for adding new icon *@
+
+        <form asp-action="Insert" id= "insertForm" asp-controller="Home">
+        <div id="marker-form" class="popup">
+            <div class="popup-content">
+            <span class="close">&times;</span>
+            <h3>Add New Icon </h3>
+            <label>Latitude:</label>
+            <input asp-for="Latitude" id= "latitude" name="Latitude" required><br>
+            <label>Longitude:</label>
+            <input asp-for="Longitude" id="longitude" name="Longitude" required><br>                        
+        @*     <label>Position:</label>
+            <input asp-for="PositionValue" id="positionValue" required><br>
+         *@    <label>Details:</label>
+                <select id="details" asp-for="Details" required>
+                    <option value="vms"> vms</option>
+                    <option value="ecb"> ecb</option>
+                    <option value="met"> met</option>
+                    <option value="cctv"> cctv</option>
+                    <option value="atcc"> atcc</option>
+                </select><br> 
+           @*  <label>IPAddress:</label>
+            <input asp-for="IPAddress" id="ipAddress" required><br> *@
+            <label>SubSysID:</label>
+            <select id="subSysID" asp-for="SubSysID" required>
+            <option value="1"> 1-vms</option>
+            <option value="3"> 3-ecb</option>
+            <option value="4"> 4-met</option>
+            <option value="6"> 6-cctv</option>
+            <option value="26"> 26-atcc</option>
+        </select><br>
+        <label> TSubSystemMID: </label>
+        <input asp-for="TSubSystemMID" id="tsubSystemmid" required> <br>
+        <button id="save-marker-button"  class='tt-buttons-group__button'> Save </button>
+        </div> </div> </form>
+
+       @*     Notification container *@
+        <div id="notification-container" class="notification-container"></div>
+
+       @*  road condition options *@
+        <div id="options-container" class="options-container">
+            <button class="option-button">Road Damage</button>
+            <button class="option-button">Road Cleaning</button>
+            <button class="option-button">Road Diversion</button>
+        </div>
+    </div>
+ 
+  @*  <script src='https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.25.1/maps/maps-web.min.js'></script>
+
+    <script src="https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.25.0/services/services-web.min.js"></script>
+    
+    <script src="https://api.tomtom.com/maps-sdk-for-web/cdn/5.x/5.57.0/services/services-web.min.js"></script> *@
+    <script src="~/js/formatters.js"></script>
+    <script src="~/js/foldable.js"></script>
+    <script src="~/js/buttons-group.js"></script>
+    <script src="~/js/tail-selector.js"></script>
+    <script src="~/js/turf.min.js"></script>
+</body>
+</html>

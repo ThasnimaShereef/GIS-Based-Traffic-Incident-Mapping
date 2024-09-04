@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.net\\ttmap\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ttmap.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ttmap.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_02152024031524.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_02152024031524.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_02162024031606.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_02162024031606.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05072024020716.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05072024020716.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05402024034057.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05402024034057.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05412024034129.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05412024034129.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05412024034147.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05412024034147.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05422024034215.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05422024034215.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05422024034247.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05422024034247.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05432024034345.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05432024034345.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05432024034354.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05432024034354.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05442024034448.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05442024034448.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05442024034456.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05442024034456.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05452024034503.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05452024034503.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05452024034510.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05452024034510.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05542024035407.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05542024035407.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05542024035416.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05542024035416.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_05572024035707.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_05572024035707.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_08232024032326.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_08232024032326.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_08432024024310.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_08432024024310.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_08432024024341.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_08432024024341.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_09062024030619.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_09062024030619.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_09352024023525.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_09352024023525.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_10332024123349.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_10332024123349.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_10342024123410.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_10342024123410.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_10342024123431.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_10342024123431.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_10352024123500.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_10352024123500.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_10412024124144.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_10412024124144.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_19162024111627.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_19162024111627.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_19162024111654.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_19162024111654.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Img_30522024115243.bmp",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Img_30522024115243.bmp"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\VMS IMAGE\\Thumbs.db",
+      "PackagePath": "staticwebassets\\VMS IMAGE\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\MainVMS.png",
+      "PackagePath": "staticwebassets\\image\\MainVMS.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\ambulance.png",
+      "PackagePath": "staticwebassets\\image\\ambulance.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\atcc.png",
+      "PackagePath": "staticwebassets\\image\\atcc.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\blindspot.png",
+      "PackagePath": "staticwebassets\\image\\blindspot.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\busbay.png",
+      "PackagePath": "staticwebassets\\image\\busbay.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\busbay1.png",
+      "PackagePath": "staticwebassets\\image\\busbay1.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\camera-tampering.png",
+      "PackagePath": "staticwebassets\\image\\camera-tampering.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\cctv.png",
+      "PackagePath": "staticwebassets\\image\\cctv.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\congestionPNG.png",
+      "PackagePath": "staticwebassets\\image\\congestionPNG.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\crane.png",
+      "PackagePath": "staticwebassets\\image\\crane.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\ecb blue.png",
+      "PackagePath": "staticwebassets\\image\\ecb blue.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\end.png",
+      "PackagePath": "staticwebassets\\image\\end.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\firebrigade.png",
+      "PackagePath": "staticwebassets\\image\\firebrigade.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\fog-detection.png",
+      "PackagePath": "staticwebassets\\image\\fog-detection.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\gasstation.png",
+      "PackagePath": "staticwebassets\\image\\gasstation.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\hospital.png",
+      "PackagePath": "staticwebassets\\image\\hospital.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\maintenance1.png",
+      "PackagePath": "staticwebassets\\image\\maintenance1.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\maintenance2.png",
+      "PackagePath": "staticwebassets\\image\\maintenance2.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\maintenance3.png",
+      "PackagePath": "staticwebassets\\image\\maintenance3.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\maintenance4.png",
+      "PackagePath": "staticwebassets\\image\\maintenance4.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\met.png",
+      "PackagePath": "staticwebassets\\image\\met.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\noparking.png",
+      "PackagePath": "staticwebassets\\image\\noparking.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\overspeeding.png",
+      "PackagePath": "staticwebassets\\image\\overspeeding.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\route-patrolling.png",
+      "PackagePath": "staticwebassets\\image\\route-patrolling.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\speed-drop.png",
+      "PackagePath": "staticwebassets\\image\\speed-drop.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\start.png",
+      "PackagePath": "staticwebassets\\image\\start.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\tollplaza.png",
+      "PackagePath": "staticwebassets\\image\\tollplaza.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\tripwire.png",
+      "PackagePath": "staticwebassets\\image\\tripwire.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\underconstruction.png",
+      "PackagePath": "staticwebassets\\image\\underconstruction.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\warning.png",
+      "PackagePath": "staticwebassets\\image\\warning.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\image\\wrong.png",
+      "PackagePath": "staticwebassets\\image\\wrong.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\images\\layers-2x.png",
+      "PackagePath": "staticwebassets\\images\\layers-2x.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\images\\layers.png",
+      "PackagePath": "staticwebassets\\images\\layers.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\images\\marker-icon-2x.png",
+      "PackagePath": "staticwebassets\\images\\marker-icon-2x.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\images\\marker-icon.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\images\\marker-shadow.png",
+      "PackagePath": "staticwebassets\\images\\marker-shadow.png"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\js\\buttons-group.js",
+      "PackagePath": "staticwebassets\\js\\buttons-group.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\js\\config.js",
+      "PackagePath": "staticwebassets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\js\\foldable.js",
+      "PackagePath": "staticwebassets\\js\\foldable.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\js\\formatters.js",
+      "PackagePath": "staticwebassets\\js\\formatters.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\js\\tail-selector.js",
+      "PackagePath": "staticwebassets\\js\\tail-selector.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\js\\tail.select.min.js",
+      "PackagePath": "staticwebassets\\js\\tail.select.min.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\js\\turf.min.js",
+      "PackagePath": "staticwebassets\\js\\turf.min.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\leaflet\\leaflet-src.esm.js",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet-src.esm.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\leaflet\\leaflet-src.esm.js.map",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet-src.esm.js.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\leaflet\\leaflet-src.js",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet-src.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\leaflet\\leaflet-src.js.map",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet-src.js.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\leaflet\\leaflet.css",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\leaflet\\leaflet.js",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\leaflet\\leaflet.js.map",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet.js.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.net\\ttmap\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ttmap.props",
+      "PackagePath": "build\\ttmap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ttmap.props",
+      "PackagePath": "buildMultiTargeting\\ttmap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ttmap.props",
+      "PackagePath": "buildTransitive\\ttmap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ttmap.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
