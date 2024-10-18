@@ -71,6 +71,9 @@ The system is designed following **Structured Analysis & Design (SAD)** and **Ob
 ![Map View](Images/mapview.png)
 *Visualizing traffic flow and incidents on the map.*
 
+![Satellite View](Images/satellite.png)
+*Satellite Map View.*
+
 ![Geofencing Alerts](Images/geofencing.png)
 *Geofencing notifications for vehicles.*
 
